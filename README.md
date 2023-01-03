@@ -1,5 +1,5 @@
 ## Olá, sou a Ana Salazar
-- 🌱 Estudando Desenvolvimento Full Stack na Tera
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na Anhanguera
 
 <div align="center">
   <a href="https://github.com/NanaSalazar">

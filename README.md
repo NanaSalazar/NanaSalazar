@@ -7,12 +7,12 @@
 <h2>Tecnologias</h2>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Ana-Nodejs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Ana-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Ana-Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width=30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   
   
@@ -24,11 +24,11 @@
 <h2>Ferramentas</h2>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Ana-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Ana-Github" height="40" width=40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Ana-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="Ana-NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="Ana-PYCHARM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img align="center" alt="Ana-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Ana-Github" height="30" width=30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Ana-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Ana-NPM" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+<img align="center" alt="Ana-PYCHARM" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
           
 
 </div>
